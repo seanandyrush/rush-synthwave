@@ -1,0 +1,26 @@
+{
+    "name": "rush-forest",
+    "displayName": "Rush Forest",
+    "description": "Theme with forest-inspired colors. Focus more on the code. Matches well with languages.",
+    "version": "1.0.1",
+    "publisher": "seanrush",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seanandyrush/rush-vsc-theme.git"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rush Forest",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rush VSC Theme-color-theme.json"
+            }
+        ]
+    }
+}
