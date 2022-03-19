@@ -6,7 +6,7 @@
     "publisher": "seanrush",
     "repository": {
         "type": "git",
-        "url": "https://github.com/seanandyrush/rust-synthwave.git"
+        "url": "https://github.com/seanandyrush/rush-synthwave.git"
     },
     "engines": {
         "vscode": "^1.65.0"
