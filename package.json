@@ -2,7 +2,7 @@
     "name": "rush-synthwave",
     "displayName": "Rush Synthwave",
     "description": "Theme with synthwave-inspired colors. Focus more on the code. Matches well with languages.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "seanrush",
     "repository": {
         "type": "git",
@@ -22,5 +22,6 @@
                 "path": "./themes/Rush VSC Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "icon.png"
 }
