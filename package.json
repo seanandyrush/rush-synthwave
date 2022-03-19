@@ -2,11 +2,11 @@
     "name": "rush-synthwave",
     "displayName": "Rush Synthwave",
     "description": "Theme with synthwave-inspired colors. Focus more on the code. Matches well with languages.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "seanrush",
     "repository": {
         "type": "git",
-        "url": "https://github.com/seanandyrush/rush-vsc-theme.git"
+        "url": "https://github.com/seanandyrush/rust-synthwave.git"
     },
     "engines": {
         "vscode": "^1.65.0"
