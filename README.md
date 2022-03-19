@@ -32,6 +32,10 @@ Tokens of this theme may match the language *completely* or *less*. Some may nee
 - Julia
 - Scala
 
+## Also see
+
+[Rush Forest](https://marketplace.visualstudio.com/items?itemName=SeanRush.rush-forest)
+
 ## __Don't forget to leave a comment! Issue me any suggestion, color or error!____
 
 ![Alt text](ss.png)
