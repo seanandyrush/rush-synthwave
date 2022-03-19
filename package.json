@@ -1,7 +1,7 @@
 {
-    "name": "rush-forest",
-    "displayName": "Rush Forest",
-    "description": "Theme with forest-inspired colors. Focus more on the code. Matches well with languages.",
+    "name": "rush-synthwave",
+    "displayName": "Rush Synthwave",
+    "description": "Theme with synthwave-inspired colors. Focus more on the code. Matches well with languages.",
     "version": "1.0.1",
     "publisher": "seanrush",
     "repository": {
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Rush Forest",
+                "label": "Rush Synthwave",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Rush VSC Theme-color-theme.json"
             }
