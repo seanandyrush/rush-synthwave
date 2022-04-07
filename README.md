@@ -53,4 +53,6 @@ Tokens of this theme may match the language *completely* or *less*. Some may nee
 
 # Don't forget to leave a comment! Issue me any suggestion, color or error!
 
-![ss](ss.png)
+# Screenshot
+
+![Alt text](ss.png)
