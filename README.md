@@ -38,4 +38,6 @@ Tokens of this theme may match the language *completely* or *less*. Some may nee
 
 ## __Don't forget to leave a comment! Issue me any suggestion, color or error!____
 
+## Screenshot
+
 ![Alt text](ss.png)
